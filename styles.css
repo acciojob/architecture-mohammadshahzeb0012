@@ -1,1 +1,31 @@
-/*  your css code here. If applicable */
+*{
+    background-color: #CBD6CB;
+    width: 1100px;
+}
+table, td{
+    border: 1px solid black;
+    text-align: center;
+}
+.imageContainer img{
+    width: 50vw;
+    height: 50vh;
+}
+table .first{
+    width: 200px;
+}
+table .middle{
+    width: 200px;
+}
+table .last{
+    width: 200px;
+}
+table .first img{
+    width: 50%;
+    height: 50%;
+
+}
+table .last img{
+    width: 50%;
+    height: 50%;
+
+}
